@@ -1,11 +1,11 @@
-# \<Insegnamento\>
+# Economia e Organizzazione Aziendale - T
 
-Una raccolta di risorse per l'insegnamento di \<Insegnamento\> del Corso di
-Laurea in Informatica.
+Una raccolta di risorse per l'insegnamento di Economia e Organizzazione Aziendale - T del Corso di
+Laurea in Ingegneria Informatica.
 
 ## Presentazione
 
-[Questo sito](https://csunibo.github.io/<insegnamento>) elenca staticamente
+[Questo sito](https://csunibo.github.io/dynamik/ing-economia-e-organizzazione-aziendale-t) elenca staticamente
 i contenuti della raccolta. Qui, documenti e presentazioni con estensione
 `.md`, `.tex`, `.doc`, `.docx`, `.ppt` o `.pptx` sono automaticamente
 convertiti in formato PDF.
